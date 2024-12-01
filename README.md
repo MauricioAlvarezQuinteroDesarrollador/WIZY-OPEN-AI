@@ -1,5 +1,5 @@
 Before running the API
-- you must have a .env
+- you must have a .env example: API_KEY=key
 
 To run the api you must:
 
